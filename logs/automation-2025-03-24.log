@@ -1,0 +1,34 @@
+08:32:00:091[TestNG-tests-1] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs..org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='input-firstname']"}
+  (Session info: MicrosoftEdge=134.0.3124.83)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [96296b37ff0d7db9cf7cbdad657af0e6, findElement {using=xpath, value=//input[@id='input-firstname']}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 134.0.3124.83, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:59113}, msedge: {msedgedriverVersion: 134.0.3124.83 (b4ff70c9d7db..., userDataDir: C:\Users\DHRUTI~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59113/devtoo..., se:cdpVersion: 134.0.3124.83, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 96296b37ff0d7db9cf7cbdad657af0e6
+08:32:00:449[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *clicked on my account *
+08:32:01:834[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *clicked on register links *
+08:32:01:835[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+08:32:01:843[TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest - Test failedorg.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [null, findElement {using=xpath, value=//input[@id='input-firstname']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 135.0.1, moz:accessibilityChecks: false, moz:buildID: 20250216192613, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 20972, moz:profile: C:\Users\DHRUTI~1\AppData\L..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+08:32:01:853[TestNG-tests-2] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs..org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [null, findElement {using=xpath, value=//input[@id='input-firstname']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 135.0.1, moz:accessibilityChecks: false, moz:buildID: 20250216192613, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 20972, moz:profile: C:\Users\DHRUTI~1\AppData\L..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+08:32:05:081[TestNG-tests-3] INFO  testCases.TC002_LoginTest - *****Starting TC002_LoginTest 
+08:32:06:319[TestNG-tests-3] INFO  testCases.TC002_LoginTest - *****Finished TC002_LoginTest 
+08:37:13:957[main] INFO  testCases.TC001_AccountRegistrationTest - *** test case execution started***
+08:37:14:322[main] INFO  testCases.TC001_AccountRegistrationTest - *clicked on my account *
+08:37:14:742[main] INFO  testCases.TC001_AccountRegistrationTest - *clicked on register links *
+08:37:14:746[main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+08:37:16:025[main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+08:37:19:086[main] INFO  testCases.TC001_AccountRegistrationTest - test case execution finished***
+08:37:21:225[main] INFO  testCases.TC002_LoginTest - *****Starting TC002_LoginTest 
+08:37:22:717[main] INFO  testCases.TC002_LoginTest - *****Finished TC002_LoginTest 

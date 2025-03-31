@@ -1,0 +1,52 @@
+18:03:20:519[main] INFO  testCases.TC001_AccountRegistrationTest - *** test case execution started***
+18:03:20:788[main] INFO  testCases.TC001_AccountRegistrationTest - *clicked on my account *
+18:03:21:484[main] INFO  testCases.TC001_AccountRegistrationTest - *clicked on register links *
+18:03:21:488[main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+18:03:23:500[main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+18:03:26:576[main] INFO  testCases.TC001_AccountRegistrationTest - test case execution finished***
+18:03:28:712[main] INFO  testCases.TC002_LoginTest - *****Starting TC002_LoginTest 
+18:03:30:562[main] INFO  testCases.TC002_LoginTest - *****Finished TC002_LoginTest 
+18:07:43:728[main] INFO  testCases.TC001_AccountRegistrationTest - *** test case execution started***
+18:07:44:088[main] INFO  testCases.TC001_AccountRegistrationTest - *clicked on my account *
+18:07:44:750[main] INFO  testCases.TC001_AccountRegistrationTest - *clicked on register links *
+18:07:44:755[main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+18:07:46:769[main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+18:07:49:871[main] INFO  testCases.TC001_AccountRegistrationTest - test case execution finished***
+18:07:52:788[main] INFO  testCases.TC002_LoginTest - *****Starting TC002_LoginTest 
+18:07:54:846[main] INFO  testCases.TC002_LoginTest - *****Finished TC002_LoginTest 
+21:15:17:450[main] ERROR testCases.TC001_AccountRegistrationTest - Error connecting to Selenium Grid: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'DESKTOP-O0L33S4', ip: '172.29.32.1'
+21:18:17:599[main] ERROR testCases.TC002_LoginTest - Error connecting to Selenium Grid: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'DESKTOP-O0L33S4', ip: '172.29.32.1'
+21:24:12:563[main] INFO  testCases.TC001_AccountRegistrationTest - *** test case execution started***
+21:24:13:230[main] INFO  testCases.TC001_AccountRegistrationTest - *clicked on my account *
+21:24:13:891[main] INFO  testCases.TC001_AccountRegistrationTest - *clicked on register links *
+21:24:13:896[main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+21:24:15:483[main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+21:24:18:565[main] INFO  testCases.TC001_AccountRegistrationTest - test case execution finished***
+21:24:20:381[main] INFO  testCases.TC002_LoginTest - *****Starting TC002_LoginTest 
+21:24:21:984[main] INFO  testCases.TC002_LoginTest - *****Finished TC002_LoginTest 
+12:06:12:047[main] INFO  testCases.TC001_AccountRegistrationTest - *** test case execution started***
+12:06:12:415[main] INFO  testCases.TC001_AccountRegistrationTest - *clicked on my account *
+12:06:13:017[main] INFO  testCases.TC001_AccountRegistrationTest - *clicked on register links *
+12:06:13:025[main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+12:06:15:243[main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+12:06:18:323[main] INFO  testCases.TC001_AccountRegistrationTest - test case execution finished***
+12:06:21:579[main] INFO  testCases.TC002_LoginTest - *****Starting TC002_LoginTest 
+12:06:23:568[main] INFO  testCases.TC002_LoginTest - *****Finished TC002_LoginTest 
+12:23:09:203[main] INFO  testCases.TC001_AccountRegistrationTest - *** test case execution started***
+12:23:09:613[main] INFO  testCases.TC001_AccountRegistrationTest - *clicked on my account *
+12:23:10:281[main] INFO  testCases.TC001_AccountRegistrationTest - *clicked on register links *
+12:23:10:289[main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+12:23:12:080[main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+12:23:15:143[main] INFO  testCases.TC001_AccountRegistrationTest - test case execution finished***
+12:23:18:124[main] INFO  testCases.TC002_LoginTest - *****Starting TC002_LoginTest 
+12:23:19:729[main] INFO  testCases.TC002_LoginTest - *****Finished TC002_LoginTest 
+13:03:08:918[main] INFO  testCases.TC001_AccountRegistrationTest - *** test case execution started***
+13:03:09:248[main] INFO  testCases.TC001_AccountRegistrationTest - *clicked on my account *
+13:03:09:900[main] INFO  testCases.TC001_AccountRegistrationTest - *clicked on register links *
+13:03:09:905[main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+13:03:12:480[main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+13:03:15:556[main] INFO  testCases.TC001_AccountRegistrationTest - test case execution finished***
+13:03:18:484[main] INFO  testCases.TC002_LoginTest - *****Starting TC002_LoginTest 
+13:03:20:197[main] INFO  testCases.TC002_LoginTest - *****Finished TC002_LoginTest 
