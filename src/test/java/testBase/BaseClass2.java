@@ -35,7 +35,7 @@ import org.testng.annotations.Parameters;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-
+// this is not important..just made a copy of base class and its not the exact copy of the base class.
 
 public class BaseClass2
 {
